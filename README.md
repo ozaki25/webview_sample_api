@@ -17,4 +17,9 @@ java -jar target/WebviewSample-0.0.1-SNAPSHOT.jar
 |/|POST|MultipartFileのアップロード|
 |/{id}.jpg|GET|{id}の画像のダウンロード|
 
+## 関連リポジトリ
 
+- Webアプリ
+  - https://github.com/ozaki25/webview_sample_web
+- API
+  - https://github.com/ozaki25/webview_sample_api
