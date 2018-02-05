@@ -8,6 +8,7 @@ cd webview_sample_api
 mvn package
 java -jar target/WebviewSample-0.0.1-SNAPSHOT.jar
 ```
+- デフォルトだと8080ポートで起動します
 
 ## エンドポイント
 
