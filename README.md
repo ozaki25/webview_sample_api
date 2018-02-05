@@ -22,4 +22,4 @@ java -jar target/WebviewSample-0.0.1-SNAPSHOT.jar
 - Webアプリ
   - https://github.com/ozaki25/webview_sample_web
 - スマホアプリ
-  - https://github.com/ozaki25/webview_sample_native
+  - https://github.com/ozaki25/webview_sample_native
